@@ -19,7 +19,7 @@ public class Railway {
     }
 
     private static void book_home() {
-        System.out.println("\t\t\t\t--------------Welcome to IRTC Train Booking Application----------");
+        System.out.println("\t\t\t\t\t-----------Welcome to IRTC Train Booking Application---------");
         System.out.println("1.Admin Login");
         System.out.println("2.User Login");
         System.out.println("3.Exit");
@@ -37,7 +37,7 @@ public class Railway {
     }
 
     private static void admin() {
-        System.out.println("\t\t\t\t-----------Welcome IRTC Admim-----------");
+        System.out.println("\t\t\t\t-----------Welcome To IRTC Admim-----------");
         System.out.print("Enter Admin Id:");
         int admin_id = scan.nextInt();
         System.out.print("Enter Admin Password:");
