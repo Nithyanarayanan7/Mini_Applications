@@ -422,9 +422,9 @@ public class Railway {
     }
 
     private static void userList() {
-        user_list.add(new users("Arun", "1234", "9965966212", 10000, 93));
-        user_list.add(new users("Ram", "1111", "9347197218", 9000, 92));
-        user_list.add(new users("Santhose", "2222", "831966212", 3000, 90));
+        user_list.add(new users("Nithi", "1234", "9965966212", 10000, 93));
+        user_list.add(new users("Chaitanya", "1111", "9347197218", 9000, 92));
+        user_list.add(new users("Kalai", "2222", "831966212", 3000, 90));
     }
 
 }
