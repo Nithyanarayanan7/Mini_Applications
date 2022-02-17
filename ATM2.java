@@ -9,10 +9,10 @@ public class ATM2 {
 
     static void createuser() {
         user[0] = new users("Nithish", "1331", 31000.00, "sb659", "12345", "uco", "", 0);
-        user[1] = new users("Raji", "1234", 10000.00, "iob731", "99999", "rbi", "", 0);
-        user[2] = new users("Kannika", "5678", 60000.00, "can083", "88888", "canara", "", 0);
+        user[1] = new users("Arun", "1234", 10000.00, "iob731", "99999", "rbi", "", 0);
+        user[2] = new users("Ram", "5678", 60000.00, "can083", "88888", "canara", "", 0);
         user[3] = new users("Chaitanya", "4321", 20000.00, "tmb023", "77777", "uco", "", 0);
-        user[4] = new users("Mega", "7896", 80000.00, "uco777", "66666", "uco", "", 0);
+        user[4] = new users("Jawahar", "7896", 80000.00, "uco777", "66666", "uco", "", 0);
     }
 
     public static void showamount() {
